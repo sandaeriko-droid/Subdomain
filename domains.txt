@@ -1,0 +1,7 @@
+# Example domains file for RSS Enterprise Scanner
+# Add one domain per line (without http/https prefix)
+# Lines starting with # are comments and will be ignored
+
+example.com
+wordpress.org
+medium.com
